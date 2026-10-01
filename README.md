@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://vercel.app)](https://github.com)
+[![Discord](https://shields.io)](https://discord.com)
