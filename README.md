@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://vercel.app)](https://github.com)
-[![Discord](https://shields.io)](https://discord.com)
+[ArtmapConverter(Discord)](https://discordapp.com/channels/1456289545170456762/1456289546080882905)
