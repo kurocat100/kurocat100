@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://vercel.app)](https://github.com)
+[![Anurag's GitHub stats](https://vercel.app)](https://github.com/kurocat100)
 <br>
 [ArtmapConverter(Discord)](https://discordapp.com/channels/1456289545170456762/1456289546080882905)
