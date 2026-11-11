@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![kuroneko100's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurocat100&theme=vue-dark&show_icons=true)](https://github.com/n/github-kurocat100-readme-stats)-->
+<!--[![kuroneko100's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=kurocat100&theme=vue-dark&show_icons=true)](https://github.com/n/github-kurocat100-readme-stats)-->
 
 <a href="https://github.com/kurocat100/kurocat100)">
   <picture>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     />
     <img
       alt="Top Langs"
-      src="[https://vercel.app](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=light_github)](https://github.com/anuraghazra/github-readme-stats)"
+      src="[https://vercel.app](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)"
     />
   </picture>
 </a>
