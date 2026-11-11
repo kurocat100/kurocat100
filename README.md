@@ -6,15 +6,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=dark_github)](https://github.com/anuraghazra/github-readme-stats"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=light_github)](https://github.com/anuraghazra/github-readme-stats"
     />
     <img
       alt="Top Langs"
-      src="[https://vercel.app](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)"
+      src="[https://vercel.app](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=light_github)](https://github.com/anuraghazra/github-readme-stats)"
     />
   </picture>
 </a>
