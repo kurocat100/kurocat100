@@ -1,6 +1,6 @@
-## Hello there
-# I am kurocat100 (in GitHub)
-# I am kuroneko100 (in )
+<h1>Hello there</h1>
+<h3> I am kurocat100 (in GitHub)</h3>
+<h3> I am kuroneko100 (in Minecraft, Discord)</h3>
 <!--
 **kurocat100/kurocat100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
