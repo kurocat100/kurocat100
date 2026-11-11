@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[![kuroneko100's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurocat100&theme=vue-dark&show_icons=true)](https://github.com/n/github-kurocat100-readme-stats)-->
-![GitHub Stats](https://githubcard.com)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
