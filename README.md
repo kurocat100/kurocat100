@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello there
+# I am kurocat100 (in GitHub)
+# I am kuroneko100 (in )
 <!--
 **kurocat100/kurocat100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,19 +17,19 @@ Here are some ideas to get you started:
 -->
 <!--[![kuroneko100's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurocat100&theme=vue-dark&show_icons=true)](https://github.com/n/github-kurocat100-readme-stats)-->
 
-<a href="https://github.com">
+<a href="https://github.com/kurocat100/kurocat100)">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://vercel.app"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://vercel.app"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=light_github)](https://github.com/anuraghazra/github-readme-stats"
     />
     <img
       alt="Top Langs"
-      src="https://vercel.app"
+      src="[https://vercel.app](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&theme=light_github)](https://github.com/anuraghazra/github-readme-stats)"
     />
   </picture>
 </a>
