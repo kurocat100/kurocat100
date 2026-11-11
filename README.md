@@ -15,7 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--[![kuroneko100's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurocat100&theme=vue-dark&show_icons=true)](https://github.com/n/github-kurocat100-readme-stats)-->
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kurocat100&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://github.com">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://vercel.app"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://vercel.app"
+    />
+    <img
+      alt="Top Langs"
+      src="https://vercel.app"
+    />
+  </picture>
+</a>
 
